@@ -1,0 +1,11 @@
+{
+  "name": "GIcal",
+  "version": "1.0.0",
+  "description": "Create event in Google Calendar from Ical using AWS Lambda",
+  "main": "app.js",
+  "repository": "https://github.com/PavlovVladislav/GIcal",
+  "author": "VladislavPavlov",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
