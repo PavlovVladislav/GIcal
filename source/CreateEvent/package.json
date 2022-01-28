@@ -6,6 +6,9 @@
   "repository": "https://github.com/PavlovVladislav/GIcal",
   "author": "VladislavPavlov",
   "dependencies": {
-    "axios": "^0.21.1"
+    "axios": "^0.21.1",
+    "node-ical": "^0.14.1",
+    "googleapis": "^92.0.0",
+    "moment-timezone": "^0.5.34"
   }
 }

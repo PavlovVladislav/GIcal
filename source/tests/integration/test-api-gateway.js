@@ -14,7 +14,7 @@ const getStackName = () => {
   if (!stackName) {
     throw new Error(
       "Cannot find env var AWS_SAM_STACK_NAME.\n" +
-        "Please setup this environment variable with the stack name where we are running integration CreateEvent."
+        "Please setup this environment variable with the stack name where we are running integration tests."
     );
   }
 
